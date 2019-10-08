@@ -43,6 +43,11 @@ Awesome books, websites and tools for data science.
 1. [Structure and Interpretation of Computer Programs(Berkeley, CS61A)](https://cs61a.org/)
 
    >Python版的SICP，讲的非常好，但是我学起来有些吃力（Project太难了）...跟了几个week就放弃了。后面有时间再看吧:-)
+   >
+
+2. [Database Systems(CMU 15-445/645 )](https://15445.courses.cs.cmu.edu/fall2019/)
+
+   >看了下感觉资料还挺全的，lecture notes和视频都有，先试听一下。
 
 #### Books
 
