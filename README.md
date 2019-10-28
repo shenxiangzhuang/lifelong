@@ -48,6 +48,14 @@ Awesome books, websites and tools for data science.
 2. [Database Systems(CMU 15-445/645 )](https://15445.courses.cs.cmu.edu/fall2019/)
 
    >看了下感觉资料还挺全的，lecture notes和视频都有，先试听一下。
+   >
+   >（更新）发现这门课终点是讲解数据库的底层而非应用，暂时先不看了。
+   >
+   
+3. [Data Structures(Stanford, CS166)](https://web.stanford.edu/class/cs166/)
+
+   > 比较深入的数据结构课程，感觉难度比较大，但是还是决定尝试一下（因为NYU, DS-GA 1003基本上快看完了:-)
+
 
 #### Books
 
