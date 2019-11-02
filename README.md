@@ -10,13 +10,15 @@ Awesome books, websites and tools for data science.
 
    >非常好的ML课程，正在跟进。感觉这门课程没有回避任何问题，对优化问题作出了很好的解释和说明。而且课程是站在一个相当高的角度（基于Risk）来展开，很有启发性。课程资料及自己的习题解答放在Github: [NYU-ML](https://github.com/shenxiangzhuang/NYU-ML)
    
-   
-   
-2. [Convex and Conic Optimization(Princeton,  ORF523 )](http://aaa.princeton.edu/orf523)
+2. [Inference and Representation (NYU,DS-GA-1005, CSCI-GA.2569)](https://github.com/joanbruna/ir18)
+
+   > 和上面的DS-GA 1003一个的系列的课程，主要关注的是概率图模型。资料也很全，后面系统学习概率图时打算选此课作为引导。
+
+3. [Convex and Conic Optimization(Princeton,  ORF523 )](http://aaa.princeton.edu/orf523)
 
    >看了一点关于凸优化的内容，讲的比较细致，还未系统学习。
 
-3. [Kernel Method, 李政轩](https://www.youtube.com/watch?v=p4t6O9uRX-U&list=PLt0SBi1p7xrRKE2us8doqryRou6eDYEOy)
+4. [Kernel Method, 李政轩](https://www.youtube.com/watch?v=p4t6O9uRX-U&list=PLt0SBi1p7xrRKE2us8doqryRou6eDYEOy)
 
    > 非常好的Kernel教程
 
@@ -56,6 +58,9 @@ Awesome books, websites and tools for data science.
 
    > 比较深入的数据结构课程，感觉难度比较大，但是还是决定尝试一下（因为NYU, DS-GA 1003基本上快看完了:-)
 
+4. [DS-GA 3001 Advanced Python for Data Science](https://nyu-cds.github.io/courses/advanced/)
+
+   > 确实是属于Advanced级别，后面会讲Cython和并发与并行编程，这些平时学习基本没有基础过，打算系统学习一下。
 
 #### Books
 
