@@ -6,9 +6,11 @@ Awesome books, websites and tools for data science.
 
 #### Courses
 
-1. [Machine Learning(NYU, DS-GA 1003)](https://davidrosenberg.github.io/ml2019/#home)
+1. [Machine Learning(NYU, DS-GA 1003)](https://davidrosenberg.github.io/ml2019/#home)[Finished]
 
    >非常好的ML课程，正在跟进。感觉这门课程没有回避任何问题，对优化问题作出了很好的解释和说明。而且课程是站在一个相当高的角度（基于Risk）来展开，很有启发性。课程资料及自己的习题解答放在Github: [NYU-ML](https://github.com/shenxiangzhuang/NYU-ML)
+   >
+   >已完成，很好，力荐！
    
 2. [Inference and Representation (NYU,DS-GA-1005, CSCI-GA.2569)](https://github.com/joanbruna/ir18)
 
@@ -18,7 +20,7 @@ Awesome books, websites and tools for data science.
 
    >看了一点关于凸优化的内容，讲的比较细致，还未系统学习。
 
-4. [Kernel Method, 李政轩](https://www.youtube.com/watch?v=p4t6O9uRX-U&list=PLt0SBi1p7xrRKE2us8doqryRou6eDYEOy)
+4. [Kernel Method, 李政轩](https://www.youtube.com/watch?v=p4t6O9uRX-U&list=PLt0SBi1p7xrRKE2us8doqryRou6eDYEOy)[Finished]
 
    > 非常好的Kernel教程
 
@@ -30,7 +32,7 @@ Awesome books, websites and tools for data science.
 
    > 此系列包括了CRC Press自2007年以来的数据挖掘方面的书籍，从最初的EXCEL, 到SAS，再到Python和R，进行着明显的演进。
 
-2. [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
+2. [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)[Finished]
 
    > 中文为《数据挖掘导论》，翻译的是第一版，现在又出了英文第二版。内容比较丰富，比较适合入门（因为书籍并没有刻意避开复杂的地方，所以也并没有很简单）。
 
