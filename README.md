@@ -24,6 +24,10 @@ Awesome books, websites and tools for data science.
 
    > 非常好的Kernel教程
 
+5. [Introduction to Machine Learning(CMU, 10-301 + 10-601)](https://www.cs.cmu.edu/~mgormley/courses/10601-s19/schedule.html)
+   
+   > CMU的ML课程。对我而言比较熟悉的算法，比如Decision Tree,看这个课的lecture notes就感觉略简单了。但是一些不是很熟悉的算法如Reinforcement Learning这些，看这种Introduction级别的还是挺不错的。
+   
    
 
 #### Books
@@ -63,6 +67,16 @@ Awesome books, websites and tools for data science.
 4. [DS-GA 3001 Advanced Python for Data Science](https://nyu-cds.github.io/courses/advanced/)
 
    > 确实是属于Advanced级别，后面会讲Cython和并发与并行编程，这些平时学习基本没有基础过，打算系统学习一下。
+   
+5. [COS226, Princeton](https://www.cs.princeton.edu/courses/archive/fall19/cos226/lectures.php)
+
+   > 数据结构与算法，教材就是有名的算法4，资料非常详细，而且有演示视频。
+
+6. [CS/ECE 374 A](https://courses.engr.illinois.edu/cs374/fa2019/A/index.html), [CS/ECE 374 B](https://courses.engr.illinois.edu/cs374/fa2019/B/lectures/)
+
+   > 同属**Introduction to Algorithms & Models of Computation**的两个部分。感觉算法讲的特别深入。另外B section的代码是用Python实现的。
+   >
+   > 作者[Jeff Erickson](http://jeffe.cs.illinois.edu)也在今年6月（**1st edition, June 2019**）开源了他的新书，[Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)， 看了其中回溯的章节，写的特别好！
 
 #### Books
 
