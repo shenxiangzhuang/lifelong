@@ -64,9 +64,11 @@ Awesome books, websites and tools for data science.
 
    > 比较深入的数据结构课程，感觉难度比较大，但是还是决定尝试一下（因为NYU, DS-GA 1003基本上快看完了:-)
 
-4. [DS-GA 3001 Advanced Python for Data Science](https://nyu-cds.github.io/courses/advanced/)
+4. [DS-GA 3001 Advanced Python for Data Science](https://nyu-cds.github.io/courses/advanced/)[Finished]
 
    > 确实是属于Advanced级别，后面会讲Cython和并发与并行编程，这些平时学习基本没有基础过，打算系统学习一下。
+   >
+   > (更新)感觉还可以吧，总体来说还是比较精简的，没有想象中那么Advanced:-)
    
 5. [COS226, Princeton](https://www.cs.princeton.edu/courses/archive/fall19/cos226/lectures.php)
 
