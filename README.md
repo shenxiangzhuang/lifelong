@@ -28,7 +28,13 @@ Awesome books, websites and tools for data science.
    
    > CMU的ML课程。对我而言比较熟悉的算法，比如Decision Tree,看这个课的lecture notes就感觉略简单了。但是一些不是很熟悉的算法如Reinforcement Learning这些，看这种Introduction级别的还是挺不错的。
    
+6. [Machine Learning and Statistical Pattern Recognition(CSE 5523)](http://aritter.github.io/courses/5523_fall18.html)
+
+   > 在查Naive Bayes的MAP估计时查到了这门课，感觉NB算法的MAP估计讲的很透彻。
    
+7. [Introduction to Deep Learning(STAT 157, UC Berkeley, Spring, 2019)](https://courses.d2l.ai/berkeley-stat-157/index.html)
+
+   > UC Berkeley的DL，看着不错，不过最近好像没时间看了Orz
 
 #### Books
 
