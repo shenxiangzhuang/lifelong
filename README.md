@@ -46,7 +46,9 @@ Awesome books, websites and tools for data science.
 
    > 中文为《数据挖掘导论》，翻译的是第一版，现在又出了英文第二版。内容比较丰富，比较适合入门（因为书籍并没有刻意避开复杂的地方，所以也并没有很简单）。
 
+3. [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](http://web.stanford.edu/~hastie/CASI/index.html)
 
+   > ESL作者Trevor Hastie写的，从频率学派的经典统计到贝叶斯，再到新世纪兴起的EM,Lasso, SVM, Kernel以及NN做了介绍。感觉很不错！
 
 
 
