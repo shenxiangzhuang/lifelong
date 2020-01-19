@@ -35,7 +35,10 @@ Awesome books, websites and tools for data science.
 7. [Introduction to Deep Learning(STAT 157, UC Berkeley, Spring, 2019)](https://courses.d2l.ai/berkeley-stat-157/index.html)
 
    > UC Berkeley的DL，看着不错，不过最近好像没时间看了Orz
+   
+8. [Introduction to Deep Learning(Princeton, COS 495)](https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
 
+   > 作为学习Deep learning的参考
 #### Books
 
 1. [Chapman & Hall/CRC Data Mining and Knowledge Discovery Series](https://www.crcpress.com/Chapman--HallCRC-Data-Mining-and-Knowledge-Discovery-Series/book-series/CHDAMINODIS?page=&order=pubdate&size=48&view=list&status=published,forthcoming)
