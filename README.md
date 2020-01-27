@@ -90,6 +90,10 @@ Awesome books, websites and tools for data science.
    > 同属**Introduction to Algorithms & Models of Computation**的两个部分。感觉算法讲的特别深入。另外B section的代码是用Python实现的。
    >
    > 作者[Jeff Erickson](http://jeffe.cs.illinois.edu)也在今年6月（**1st edition, June 2019**）开源了他的新书，[Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf)， 看了其中回溯的章节，写的特别好！
+   
+7. [**CSCI2100/ESTR2102 Data Structures**](https://appsrv.cse.cuhk.edu.hk/~taoyf/course/2100/18-fall/)
+
+   > 搜AVL Tree的时候找到这门课的课件，遂找到此课。后发现是港中文大佬[**Yufei Tao**](https://appsrv.cse.cuhk.edu.hk/~taoyf/)开的课。他还开了其他一些算法，线代和数据挖掘的一些课，可以作为参考。
 
 #### Books
 
