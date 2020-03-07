@@ -1,10 +1,10 @@
 # Awesome Data Science
 Awesome books, websites and tools for data science.
 
+Enjoy it:-)
+## 1. ML Theory
 
-### Theory
-
-#### Courses
+### 1.1 Courses
 
 1. [Machine Learning(NYU, DS-GA 1003)](https://davidrosenberg.github.io/ml2019/#home)[Finished]
 
@@ -40,12 +40,15 @@ Awesome books, websites and tools for data science.
 
    > 作为学习Deep learning的参考
    
-9. [Mining Massive Data Sets](Stanford, CS246, Winter 2020)
+9. [Mining Massive Data Sets(Stanford, CS246, Winter 2020)](http://web.stanford.edu/class/cs246/)
 
    > Mining Massive Data Sets. (正在学习中)
 
-   
-#### Books
+10. [Machine Learning & Data Mining(Caltech, CS 155, Winter 2020)](http://www.yisongyue.com/courses/cs155/2020_winter/)
+    
+    >lecture notes看着还不错
+
+### 1.2 Books
 
 1. [Chapman & Hall/CRC Data Mining and Knowledge Discovery Series](https://www.crcpress.com/Chapman--HallCRC-Data-Mining-and-Knowledge-Discovery-Series/book-series/CHDAMINODIS?page=&order=pubdate&size=48&view=list&status=published,forthcoming)
 
@@ -59,11 +62,16 @@ Awesome books, websites and tools for data science.
 
    > ESL作者Trevor Hastie写的，从频率学派的经典统计到贝叶斯，再到新世纪兴起的EM,Lasso, SVM, Kernel以及NN做了介绍。感觉很不错！
 
+4. [Learning From Data](https://work.caltech.edu/library/index.html)
+
+  > 神书!
+
+  
 
 
-### Programming
+## 2. Programming
 
-#### Courses
+### 2.1 Courses
 
 1. [Structure and Interpretation of Computer Programs(Berkeley, CS61A)](https://cs61a.org/)
 
@@ -101,7 +109,7 @@ Awesome books, websites and tools for data science.
 
    > 搜AVL Tree的时候找到这门课的课件，遂找到此课。后发现是港中文大佬[**Yufei Tao**](https://appsrv.cse.cuhk.edu.hk/~taoyf/)开的课。他还开了其他一些算法，线代和数据挖掘的一些课，可以作为参考。
 
-#### Books
+### 2.2 Books
 
 1. [Data Structures & Algorithms in Python, Michael T. Goodrich](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=8029&itemId=1118290275)
 
@@ -109,7 +117,7 @@ Awesome books, websites and tools for data science.
 
    
 
-#### Websites
+### 2.3 Websites
 
 1. [MachineLearning+](https://www.machinelearningplus.com/)
    
@@ -121,7 +129,7 @@ Awesome books, websites and tools for data science.
    >Wrangling with the R programming language. You will learn the 
    >fundamental skills required to acquire, munge, transform, manipulate, and visualize data in a computing environment that fosters reproducibility.
 
-#### Tools
+### 2.4 Tools
 
 1. [mlxtend](http://rasbt.github.io/mlxtend/)
 
@@ -130,5 +138,38 @@ Awesome books, websites and tools for data science.
 2. [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 
    >Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
+
+## 3. Computer Science
+
+### 3.1 Courses
+
+1.  [Computation Structures(MIT6.004)](https://6004.mit.edu/web/fall19FA19/resources/lectures)
+
+> 分布式系统先修课。(需要一定的计算机底层知识才可以，暂时没区看)
+
+
+
+## 4. Topic
+
+分专题的资源
+
+### 4.1 Machine Learning System
+
+[CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
+
+> Tianqi Chen在华盛顿大学的机器学习系统课程。
+
+[CSCE 585](https://pooyanjamshidi.github.io/mls/lectures/)
+
+> A graduate-level class on machine learning systems.
+
+[CS6787: Advanced Machine Learning Systems — Fall 2019](http://www.cs.cornell.edu/courses/cs6787/2019fa/)
+
+> cornell的课程，附带了很多paper,值得好好看一下。
+
+[Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems#about)
+
+> coursera上Google开的课，貌似需要付费
+
 
 
