@@ -1,7 +1,7 @@
 # Awesome Data Science
 Awesome books, websites and tools for data science.
 
-
+Enjoy it:-)
 ### Theory
 
 #### Courses
