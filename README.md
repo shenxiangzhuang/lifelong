@@ -39,6 +39,12 @@ Awesome books, websites and tools for data science.
 8. [Introduction to Deep Learning(Princeton, COS 495)](https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
 
    > 作为学习Deep learning的参考
+   
+9. [Mining Massive Data Sets](Stanford, CS246, Winter 2020)
+
+   > Mining Massive Data Sets. (正在学习中)
+
+   
 #### Books
 
 1. [Chapman & Hall/CRC Data Mining and Knowledge Discovery Series](https://www.crcpress.com/Chapman--HallCRC-Data-Mining-and-Knowledge-Discovery-Series/book-series/CHDAMINODIS?page=&order=pubdate&size=48&view=list&status=published,forthcoming)
