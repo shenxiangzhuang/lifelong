@@ -78,13 +78,6 @@ Enjoy it:-)
    >Python版的SICP，讲的非常好，但是我学起来有些吃力（Project太难了）...跟了几个week就放弃了。后面有时间再看吧:-)
    >
 
-2. [Database Systems(CMU 15-445/645 )](https://15445.courses.cs.cmu.edu/fall2019/)
-
-   >看了下感觉资料还挺全的，lecture notes和视频都有，先试听一下。
-   >
-   >（更新）发现这门课终点是讲解数据库的底层而非应用，暂时先不看了。
-   >
-   
 3. [Data Structures(Stanford, CS166)](https://web.stanford.edu/class/cs166/)
 
    > 比较深入的数据结构课程，感觉难度比较大，但是还是决定尝试一下（因为NYU, DS-GA 1003基本上快看完了:-)
@@ -143,11 +136,20 @@ Enjoy it:-)
 
 ### 3.1 Courses
 
-1.  [Computation Structures(MIT6.004)](https://6004.mit.edu/web/fall19FA19/resources/lectures)
+1. [Computation Structures(MIT6.004)](https://6004.mit.edu/web/fall19FA19/resources/lectures)
 
-> 分布式系统先修课。(需要一定的计算机底层知识才可以，暂时没区看)
+   > 分布式系统先修课。(需要一定的计算机底层知识才可以，暂时没去看)
 
+2. [ntro to Computer Systems, Spring 2020 CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15213-s20/www/schedule.html)
 
+   > CSAPP为教材的操作系统课程，也是CMU 15-445/645的先修课。
+
+3. [Database Systems(CMU 15-445/645 )](https://15445.courses.cs.cmu.edu/fall2019/)
+
+   >看了下感觉资料还挺全的，lecture notes和视频都有，先试听一下。
+   >
+   >（更新）发现这门课终点是讲解数据库的底层而非应用，暂时先不看了。
+   >
 
 ## 4. Topic
 
