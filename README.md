@@ -47,6 +47,17 @@ Enjoy it:-)
 10. [Machine Learning & Data Mining(Caltech, CS 155, Winter 2020)](http://www.yisongyue.com/courses/cs155/2020_winter/)
     
     >lecture notes看着还不错
+    
+11. [CS-L,W-182/282A Designing, Visualizing and Understanding Deep Neural Networks(Berkeley, Spring 2020)](https://bcourses.berkeley.edu/courses/1487769/wiki)
+
+    > Berkeley的深度学习课程(正在学习中)
+
+    12.[CS 189/289A-Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+
+    >Berkeley的统计机器学习课程，理论讲的比较深入，给了很多有用的资料。（后面需要重点看的）
+
+    
+
 
 ### 1.2 Books
 
@@ -62,11 +73,15 @@ Enjoy it:-)
 
    > ESL作者Trevor Hastie写的，从频率学派的经典统计到贝叶斯，再到新世纪兴起的EM,Lasso, SVM, Kernel以及NN做了介绍。感觉很不错！
 
-4. [Learning From Data](https://work.caltech.edu/library/index.html)
+4. [Learning From Data](https://work.caltech.edu/library/index.html)[Finished]
 
-  > 神书!
+   > 神书!
 
-  
+5. [Probability and Mathematical Statistics](http://datahonor.com/2018/12/24/Probability-and-Mathematical-Statistics-Books/)[Finished]
+
+   > 本科看过的8本概率论和数理统计的书(流水记录与简评)。Hogg和Casella真的是经典.
+
+   
 
 
 ## 2. Programming
@@ -77,6 +92,7 @@ Enjoy it:-)
 
    >Python版的SICP，讲的非常好，但是我学起来有些吃力（Project太难了）...跟了几个week就放弃了。后面有时间再看吧:-)
    >
+   >(**更新: CS61A, CS61B, CS61C三门课都是很好的课程**)
 
 3. [Data Structures(Stanford, CS166)](https://web.stanford.edu/class/cs166/)
 
@@ -101,20 +117,28 @@ Enjoy it:-)
 7. [**CSCI2100/ESTR2102 Data Structures**](https://appsrv.cse.cuhk.edu.hk/~taoyf/course/2100/18-fall/)
 
    > 搜AVL Tree的时候找到这门课的课件，遂找到此课。后发现是港中文大佬[**Yufei Tao**](https://appsrv.cse.cuhk.edu.hk/~taoyf/)开的课。他还开了其他一些算法，线代和数据挖掘的一些课，可以作为参考。
+   
+7. [Data Structure and Algorithm, Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w/playlists)
+
+   > 数据结构与算法，女神讲的可是太好了！
 
 ### 2.2 Books
 
-1. [Data Structures & Algorithms in Python, Michael T. Goodrich](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=8029&itemId=1118290275)
+1. [Data Structures & Algorithms in Python, Michael T. Goodrich](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=8029&itemId=1118290275)[Finished]
 
    > 用Python实现一些数据结构，讲解的非常细致，难度适中，课后题很多都很有启发性。正在阅读，并整理部分习题答案，放在Github项目[**Data-Structures-and-Algorithms-in-Python**](https://github.com/shenxiangzhuang/Data-Structures-and-Algorithms-in-Python)。同时，为了方便以后的继续学习，也在持续写一个库，主要就是参考这本书的源代码，也放在Github: [ToyData](https://github.com/shenxiangzhuang/ToyData)
+
+2. [Data Structures Using C, Reema Thareja](https://www.amazon.com/Data-Structures-Using-Reema-Thareja/dp/0198099304)[Finished]
+
+   > 讲解非常清晰的一本书，用纯C实现全部的数据结构。代码有少许错误，但是总体感觉尚可。之前看的时候用Zim做了一些[习题和笔记](https://github.com/shenxiangzhuang/DataStructureUsingC)
 
    
 
 ### 2.3 Websites
 
 1. [MachineLearning+](https://www.machinelearningplus.com/)
-   
-> 有一些讲DM算法比较深入的文章，此外这里提供了Pandas和Numpy的练习题。
+
+   >有一些讲DM算法比较深入的文章，此外这里提供了Pandas和Numpy的练习题。
 
 2. [UC Business Analytics R Programming Guide](http://uc-r.github.io/)
 
@@ -122,11 +146,15 @@ Enjoy it:-)
    >Wrangling with the R programming language. You will learn the 
    >fundamental skills required to acquire, munge, transform, manipulate, and visualize data in a computing environment that fosters reproducibility.
 
-### 2.4 Tools
+### 2.4 Projects|Tools
 
 1. [mlxtend](http://rasbt.github.io/mlxtend/)
 
-   > 提供了一些比较常见的算法，调用方式非常简单和sklearn相似，而且和skearn兼容性比较好。此外，对于API的使用都给出了很多内容翔实的例子，值得学习。
+   > Github地址[mlxtend](https://github.com/rasbt/mlxtend)，提供了一些比较常见的算法，调用方式非常简单和sklearn相似，而且和sklearn兼容性比较好。此外，对于API的使用都给出了很多内容翔实的例子，值得学习。
+   >
+   > 此外，我感觉这个项目很适合学习从零实现一个机器学习算法，因为并没用像Sklearn那样为了良好的用户体验和高效率执行做很多优化，代码简洁，逻辑业较为清晰。可以作为Machine Learning From Scratch系列的重要参考资料。
+   >
+   > PS:项目作者[rasbt](https://github.com/rasbt)处理issue是真的及时——“I am currently traveling but will put that onto my todo list for late July when I am back at a "real" computer.” :-)
 
 2. [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 
@@ -136,26 +164,64 @@ Enjoy it:-)
 
 ### 3.1 Courses
 
-1. [Computation Structures(MIT6.004)](https://6004.mit.edu/web/fall19FA19/resources/lectures)
+0. [CS106(Stanford)](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&q=CS106)
+
+    > Stanford计算机科学入门系列课程.
+    >
+    > 正在学习[CS106L-Standard C++ Programming-Fall 2020](http://web.stanford.edu/class/cs106l/)
+
+1. [CS110 Principles of Computer Systems(Stanford)](Computer Organization & Systems)
+
+   >CS144的先修课.
+
+2. [CS 144: Introduction to Computer Networking](https://cs144.github.io/)
+
+   >计算机网络比较有名的课程. 
+   >
+   >(更新)就是因为这个Lab是Cpp所以才去修了上面的CS106L...
+
+3. [Computation Structures(MIT6.004)](https://6004.mit.edu/web/fall19FA19/resources/lectures)
 
    > 分布式系统先修课。(需要一定的计算机底层知识才可以，暂时没去看)
 
-2. [ntro to Computer Systems, Spring 2020 CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15213-s20/www/schedule.html)
+4. [Intro to Computer Systems, Spring 2020 CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15213-s20/www/schedule.html)
 
-   > CSAPP为教材的操作系统课程，也是CMU 15-445/645的先修课。
-
-3. [Database Systems(CMU 15-445/645 )](https://15445.courses.cs.cmu.edu/fall2019/)
-
-   >看了下感觉资料还挺全的，lecture notes和视频都有，先试听一下。
+   > CSAPP为教材的操作系统课程，也是CMU 15-445/645的先修课。在官网好像是只能看到lab0的资料，后续lab官网(不登录)没法看，可以去书的主页去找老版本的lab做。
    >
-   >（更新）发现这门课终点是讲解数据库的底层而非应用，暂时先不看了。
+   > (更新)感觉lecture notes不是很全面，买本实体书边看边做练习比较好。
+
+5. [Database Systems(CMU 15-445/645 )](https://15445.courses.cs.cmu.edu/fall2019/)
+
+   >看了下感觉资料还挺全的，lecture notes和视频都有，先试听一下。这门课重点是讲解数据库的底层实现。
+   
+6. [Computer Networks, Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+
+    > 油管上一门计算机网络的课，自底向上讲的，目前看到大概40+，感觉还是很好的。(不过这个list总共是97个视频，应该是没有更新完，官方好像标记为full, 可能不会再更了，有些可惜)
+
+    
+
+### 3.2 Books
+
+1. 计算机|计算机网络(不求甚解系列:-)[Finished]
+
+   >[Head First Networking ](https://book.douban.com/subject/3792147/),非常简单的入门介绍，可以当作第一次接触计算机网络时的读物。(但是很明显这本09年的书有点太老了，而且会讲布线这些很“物理”的东西:-)
    >
+   >[计算机是怎样跑起来的](https://book.douban.com/subject/26397183/)，同样是很简单的介绍，但是感觉还是有些用的。比如开头章节“试着制造一台计算机吧”，从硬件开始讲解一个最最简单的计算机是怎么运行的。比如之前看到有人问:“操作系统中的时钟是硬件层面的实现还是软件层面的实现”，而这本书中的一个元件就是2.5MHz的时钟发生器。
+
+2. CSAPP
+
+   > 神书！上面提到过在CMU对应的课程，也是现在正在看的书。只有真正看过之后才会明白为什么那么多人推荐吧。
+
+   
+
 
 ## 4. Topic
 
 分专题的资源
 
 ### 4.1 Machine Learning System
+
+之前看的一篇[Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)感触挺深的，后面就找了下Machine Learning System的资料.
 
 [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
 
@@ -173,5 +239,18 @@ Enjoy it:-)
 
 > coursera上Google开的课，貌似需要付费
 
+### 4.2 Database Systems
+[Datenbankenlernen.de](https://bigdata.uni-saarland.de/datenbankenlernen/), [Prof. Dr. Jens Dittrich](https://www.youtube.com/user/jensdit/playlists)
 
+## 5. Projects
+
+正在做(并没有:-)的几个玩具项目.
+
+[ToyData](https://github.com/shenxiangzhuang/ToyData): `pip install ToyData -i https://pypi.org/simple`开启.
+
+[ToyML](https://github.com/shenxiangzhuang/ToyML): DBSCAN, Hierarchical(Agnes&Diana), Kmeans, KNN, AdaBoost已完成.
+
+[LanguageQA](https://github.com/shenxiangzhuang/LanguageQA): 语言使用个人定制版QA，好记性不如写文档.
+
+[梅贾的窃魂卷](http://datahonor.com/2019/09/26/%E6%A2%85%E8%B4%BE%E7%9A%84%E7%AA%83%E9%AD%82%E5%8D%B7-0-25-%E2%80%94%E2%80%94%E5%A7%8B%E6%9C%AB/): Python系列笔记，目前3/25(叠不动了:-).
 
