@@ -166,9 +166,13 @@ Enjoy it:-)
 
 0. [CS106(Stanford)](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&q=CS106)
 
-    > Stanford计算机科学入门系列课程.
-    >
-    > 正在学习[CS106L-Standard C++ Programming-Fall 2020](http://web.stanford.edu/class/cs106l/)
+     > Stanford计算机科学入门系列课程.
+     >
+     > ~~正在学习~~(Finished)CS106L-Standard C++ Programming-Fall 2020](http://web.stanford.edu/class/cs106l/). And here is [My Github Repo](https://github.com/shenxiangzhuang/CS106L-Fall2020).
+     >
+     > 
+     >
+     > 
 
 1. [CS110 Principles of Computer Systems(Stanford)](Computer Organization & Systems)
 
