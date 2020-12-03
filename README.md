@@ -248,6 +248,9 @@ Enjoy it:-)
 ### 4.2 Database Systems
 [Datenbankenlernen.de](https://bigdata.uni-saarland.de/datenbankenlernen/), [Prof. Dr. Jens Dittrich](https://www.youtube.com/user/jensdit/playlists)
 
+### 4.3 Association Analysis
+[ Christian Borgelt's Web Pages](https://borgelt.net/fpm.html)
+
 ## 5. Projects
 
 正在做(并没有:-)的几个玩具项目.
