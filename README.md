@@ -6,6 +6,12 @@ Enjoy it:-)
 
 ### 1.1 Courses
 
+0. [Introduction To Machine Learning](https://www.cs.huji.ac.il/~shais/IML2014.html)
+
+   > 这是根据*[Understanding Machine Learning: From Theory to Algorithms  ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)*这本书找到的课程。
+   >
+   > 这本书只看了开头几章，真的是高屋建瓴！而且对PAC理论的推导是我目前见过最为精彩而且容易懂的，所以打算把DS-GA 1003的完成度作为目标，配合课程，书籍，习题和答案将这learning theory这部分的理论补充起来！
+
 1. [Machine Learning(NYU, DS-GA 1003)](https://davidrosenberg.github.io/ml2019/#home)[Finished]
 
    >非常好的ML课程，正在跟进。感觉这门课程没有回避任何问题，对优化问题作出了很好的解释和说明。而且课程是站在一个相当高的角度（基于Risk）来展开，很有启发性。课程资料及自己的习题解答放在Github: [NYU-ML](https://github.com/shenxiangzhuang/NYU-ML)
@@ -50,13 +56,13 @@ Enjoy it:-)
     
 11. [CS-L,W-182/282A Designing, Visualizing and Understanding Deep Neural Networks(Berkeley, Spring 2020)](https://bcourses.berkeley.edu/courses/1487769/wiki)
 
-    > Berkeley的深度学习课程(正在学习中)
+    > Berkeley的深度学习课程(正在学习中/暂停)
 
-    12.[CS 189/289A-Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+12. [CS 189/289A-Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
     >Berkeley的统计机器学习课程，理论讲的比较深入，给了很多有用的资料。（后面需要重点看的）
 
-    
+
 
 
 ### 1.2 Books
