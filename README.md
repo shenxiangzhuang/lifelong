@@ -62,7 +62,9 @@ Enjoy it:-)
 
     >Berkeley的统计机器学习课程，理论讲的比较深入，给了很多有用的资料。（后面需要重点看的）
 
+13. [CSC2541 Winter 2021   Topics in Machine Learning:   Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2021/)
 
+    > 深入DL训练过程的课程，试图分析DL效果好的原因，值得好好看！
 
 
 ### 1.2 Books
@@ -268,4 +270,8 @@ Enjoy it:-)
 [LanguageQA](https://github.com/shenxiangzhuang/LanguageQA): 语言使用个人定制版QA，好记性不如写文档.
 
 [梅贾的窃魂卷](http://datahonor.com/2019/09/26/%E6%A2%85%E8%B4%BE%E7%9A%84%E7%AA%83%E9%AD%82%E5%8D%B7-0-25-%E2%80%94%E2%80%94%E5%A7%8B%E6%9C%AB/): Python系列笔记，目前3/25(叠不动了:-).
+
+## 6. Industry
+
+[Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
 
