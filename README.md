@@ -44,7 +44,9 @@ Enjoy it:-)
    
 8. [Introduction to Deep Learning(Princeton, COS 495)](https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
 
-   > 作为学习Deep learning的参考
+   > 作为学习Deep learning的参考.
+   >
+   > (更新)Princeton的其他AL&ML相关课程可以在https://aiml.cs.princeton.edu/course.html 找到，其中Mathematics for Numerical Computing and Machine Learning， Theoretical Machine Learning 看着还不错。
    
 9. [Mining Massive Data Sets(Stanford, CS246, Winter 2020)](http://web.stanford.edu/class/cs246/)
 
