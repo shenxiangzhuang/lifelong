@@ -269,38 +269,37 @@ Enjoy it:-)
 
 之前看的一篇[Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)感触挺深的，后面就找了下Machine Learning System的资料.
 
-[CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
+1. [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
 
-> Tianqi Chen在华盛顿大学的机器学习系统课程。
+   >Tianqi Chen在华盛顿大学的机器学习系统课程。
 
-[CSCE 585](https://pooyanjamshidi.github.io/mls/lectures/)
+2. [CSCE 585](https://pooyanjamshidi.github.io/mls/lectures/)
 
-> A graduate-level class on machine learning systems.
+   >A graduate-level class on machine learning systems.
 
-[CS6787: Advanced Machine Learning Systems — Fall 2019](http://www.cs.cornell.edu/courses/cs6787/2019fa/)
+3. [CS6787: Advanced Machine Learning Systems — Fall 2019](http://www.cs.cornell.edu/courses/cs6787/2019fa/)
 
-> cornell的课程，附带了很多paper,值得好好看一下。
+   > cornell的课程，附带了很多paper,值得好好看一下。
 
-[Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems#about)
 
-> coursera上Google开的课，貌似需要付费
+4. [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems#about)
 
+   > coursera上Google开的课，貌似需要付费
 ### 4.2 Association Analysis
-[ Christian Borgelt's Web Pages](https://borgelt.net/fpm.html)
+1. [Christian Borgelt's Web Pages](https://borgelt.net/fpm.html)
 
 ## 5. Projects
 
 正在做(并没有:-)的几个玩具项目.
 
-[ToyData](https://github.com/shenxiangzhuang/ToyData): `pip install ToyData -i https://pypi.org/simple`开启.
+1. [ToyData](https://github.com/shenxiangzhuang/ToyData): `pip install ToyData -i https://pypi.org/simple`开启.
 
-[ToyML](https://github.com/shenxiangzhuang/ToyML): DBSCAN, Hierarchical(Agnes&Diana), Kmeans, KNN, AdaBoost已完成.
+2. [ToyML](https://github.com/shenxiangzhuang/ToyML): DBSCAN, Hierarchical(Agnes&Diana), Kmeans, KNN, AdaBoost已完成.
 
-[LanguageQA](https://github.com/shenxiangzhuang/LanguageQA): 语言使用个人定制版QA，好记性不如写文档.
+3. [LanguageQA](https://github.com/shenxiangzhuang/LanguageQA): 语言使用个人定制版QA，好记性不如写文档.
 
-[梅贾的窃魂卷](http://datahonor.com/2019/09/26/%E6%A2%85%E8%B4%BE%E7%9A%84%E7%AA%83%E9%AD%82%E5%8D%B7-0-25-%E2%80%94%E2%80%94%E5%A7%8B%E6%9C%AB/): Python系列笔记，目前3/25(叠不动了:-).
+4. [梅贾的窃魂卷](http://datahonor.com/2019/09/26/%E6%A2%85%E8%B4%BE%E7%9A%84%E7%AA%83%E9%AD%82%E5%8D%B7-0-25-%E2%80%94%E2%80%94%E5%A7%8B%E6%9C%AB/): Python系列笔记，目前3/25(叠不动了:-).
 
 ## 6. Industry
 
-[Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
-
+1. [Twitter Engineering](https://blog.twitter.com/engineering/en_us.html)
