@@ -207,7 +207,7 @@ Enjoy it:-)
    >
    > (更新)感觉lecture notes不是很全面，买本实体书边看边做练习比较好。
 
-2. [CS110 Principles of Computer Systems(Stanford)](Computer Organization & Systems)
+2. [CS110 Principles of Computer Systems(Stanford)-Computer Organization & Systems](http://web.stanford.edu/class/cs110/)
 
     >CS144的先修课.
 
