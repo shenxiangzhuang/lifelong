@@ -91,7 +91,9 @@ Enjoy it:-)
 
    > 本科看过的8本概率论和数理统计的书(流水记录与简评)。Hogg和Casella真的是经典.
 
-   
+6. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)[Finished]
+
+   > 这本书在我看来是DL入门**最好**的一本书，没有之一。先是从理论上把基于梯度下降的优化过程讲清楚，之后写代码从零开始构建神经网络。条理清晰，层次分明，没有回避任何问题，读完解决了很多之前一直都有的疑惑。
 
 ## 2. Programming
 ### 2.2 Books
