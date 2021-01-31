@@ -12,7 +12,7 @@ Enjoy it:-)
    >
    > 这本书只看了开头几章，真的是高屋建瓴！而且对PAC理论的推导是我目前见过最为精彩而且容易懂的，所以打算把DS-GA 1003的完成度作为目标，配合课程，书籍，习题和答案将这learning theory这部分的理论补充起来！
 
-1. [Machine Learning(NYU, DS-GA 1003)](https://davidrosenberg.github.io/ml2019/#home)[Finished]
+1. [Machine Learning(NYU, DS-GA 1003)](https://davidrosenberg.github.io/ml2019/#home):heavy_check_mark: 
 
    >非常好的ML课程，正在跟进。感觉这门课程没有回避任何问题，对优化问题作出了很好的解释和说明。而且课程是站在一个相当高的角度（基于Risk）来展开，很有启发性。课程资料及自己的习题解答放在Github: [NYU-ML](https://github.com/shenxiangzhuang/NYU-ML)
    >
@@ -26,7 +26,7 @@ Enjoy it:-)
 
    >看了一点关于凸优化的内容，讲的比较细致，还未系统学习。
 
-4. [Kernel Method, 李政轩](https://www.youtube.com/watch?v=p4t6O9uRX-U&list=PLt0SBi1p7xrRKE2us8doqryRou6eDYEOy)[Finished]
+4. [Kernel Method, 李政轩](https://www.youtube.com/watch?v=p4t6O9uRX-U&list=PLt0SBi1p7xrRKE2us8doqryRou6eDYEOy):heavy_check_mark: 
 
    > 非常好的Kernel教程
 
@@ -75,7 +75,7 @@ Enjoy it:-)
 
    > 此系列包括了CRC Press自2007年以来的数据挖掘方面的书籍，从最初的EXCEL, 到SAS，再到Python和R，进行着明显的演进。
 
-2. [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)[Finished]
+2. [Introduction to Data Mining](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php):heavy_check_mark:  
 
    > 中文为《数据挖掘导论》，翻译的是第一版，现在又出了英文第二版。内容比较丰富，比较适合入门（因为书籍并没有刻意避开复杂的地方，所以也并没有很简单）。
 
@@ -83,26 +83,26 @@ Enjoy it:-)
 
    > ESL作者Trevor Hastie写的，从频率学派的经典统计到贝叶斯，再到新世纪兴起的EM,Lasso, SVM, Kernel以及NN做了介绍。感觉很不错！
 
-4. [Learning From Data](https://work.caltech.edu/library/index.html)[Finished]
+4. [Learning From Data](https://work.caltech.edu/library/index.html):heavy_check_mark: 
 
    > 神书!
 
-5. [Probability and Mathematical Statistics](http://datahonor.com/2018/12/24/Probability-and-Mathematical-Statistics-Books/)[Finished]
+5. [Probability and Mathematical Statistics](http://datahonor.com/2018/12/24/Probability-and-Mathematical-Statistics-Books/):heavy_check_mark: 
 
    > 本科看过的8本概率论和数理统计的书(流水记录与简评)。Hogg和Casella真的是经典.
 
-6. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)[Finished]
+6. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/):heavy_check_mark: 
 
    > 这本书在我看来是DL入门**最好**的一本书，没有之一。先是从理论上把基于梯度下降的优化过程讲清楚，之后写代码从零开始构建神经网络。条理清晰，层次分明，没有回避任何问题，读完解决了很多之前一直都有的疑惑。
 
 ## 2. Programming
 ### 2.2 Books
 
-1. [Data Structures & Algorithms in Python, Michael T. Goodrich](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=8029&itemId=1118290275)[Finished]
+1. [Data Structures & Algorithms in Python, Michael T. Goodrich](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=8029&itemId=1118290275):heavy_check_mark: 
 
    > 用Python实现一些数据结构，讲解的非常细致，难度适中，课后题很多都很有启发性。正在阅读，并整理部分习题答案，放在Github项目[**Data-Structures-and-Algorithms-in-Python**](https://github.com/shenxiangzhuang/Data-Structures-and-Algorithms-in-Python)。同时，为了方便以后的继续学习，也在持续写一个库，主要就是参考这本书的源代码，也放在Github: [ToyData](https://github.com/shenxiangzhuang/ToyData)
 
-2. [Data Structures Using C, Reema Thareja](https://www.amazon.com/Data-Structures-Using-Reema-Thareja/dp/0198099304)[Finished]
+2. [Data Structures Using C, Reema Thareja](https://www.amazon.com/Data-Structures-Using-Reema-Thareja/dp/0198099304):heavy_check_mark: 
 
    > 讲解非常清晰的一本书，用纯C实现全部的数据结构。代码有少许错误，但是总体感觉尚可。之前看的时候用Zim做了一些[习题和笔记](https://github.com/shenxiangzhuang/DataStructureUsingC)
 
@@ -112,15 +112,15 @@ Enjoy it:-)
 
       > Stanford计算机科学入门系列课程.
       >
-      > ~~正在学习~~(Finished)[CS106L-Standard C++ Programming-Fall 2020](http://web.stanford.edu/class/cs106l/). And here is my github repo [CS106L-Fall2020](https://github.com/shenxiangzhuang/CS106L-Fall2020) (lecture notes&assignment solutions) about this course.(整体不错，讲解了modern cpp的一些特性，不过整体内容比较简洁，没有涉及很多)
+      > :heavy_check_mark:[CS106L-Standard C++ Programming-Fall 2020](http://web.stanford.edu/class/cs106l/). And here is my github repo [CS106L-Fall2020](https://github.com/shenxiangzhuang/CS106L-Fall2020) (lecture notes&assignment solutions) about this course.(整体不错，讲解了modern cpp的一些特性，不过整体内容比较简洁，没有涉及很多)
       >
       > 
       >
-      > ~~正在学习~~(Finished)[CS106A-Programming Methodologies](http://web.stanford.edu/class/cs106a/index.html#mainNav). And here is my github repo [CS106A-Fall2020](https://github.com/shenxiangzhuang/CS106A-Fall2020)(很赞的编程入门课程，也是Python很好的入门资料，广度深度都有，作业和项目全部做完了，很友好！)
+      > :heavy_check_mark:[CS106A-Programming Methodologies](http://web.stanford.edu/class/cs106a/index.html#mainNav). And here is my github repo [CS106A-Fall2020](https://github.com/shenxiangzhuang/CS106A-Fall2020)(很赞的编程入门课程，也是Python很好的入门资料，广度深度都有，作业和项目全部做完了，很友好！)
       >
       > 
       >
-      > ~~正在学习~~(Finished Partly)[CS106B Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1212/)（主要是讲解一些基本的数据结构，编程语言用的是Cpp. Assignment做到一半结果学校把资源转到内网了...所以后面就大概看了一些Lecture Notes）
+      > :heavy_check_mark:[CS106B Programming Abstractions](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1212/)（主要是讲解一些基本的数据结构，编程语言用的是Cpp. Assignment做到一半结果学校把资源转到内网了...所以后面就大概看了一些Lecture Notes）
       >
       > 
       >
@@ -129,15 +129,14 @@ Enjoy it:-)
 
 1. [Structure and Interpretation of Computer Programs(Berkeley, CS61A)](https://cs61a.org/)
 
-   >Python版的SICP，讲的非常好，但是我学起来有些吃力（Project太难了）...跟了几个week就放弃了。后面有时间再看吧:-)
+   >Python版的SICP，讲的非常好，但是我学起来有些吃力（Project太难了）...跟了几个week就放弃了。后面有时间再看吧:-)(**CS61A, CS61B, CS61C三门课都是很好的课程**)
    >
-   >(**更新: CS61A, CS61B, CS61C三门课都是很好的课程**)
-
+   
 2. [Data Structures(Stanford, CS166)](https://web.stanford.edu/class/cs166/)
 
-   > 比较深入的数据结构课程，感觉难度比较大，但是还是决定尝试一下（因为NYU, DS-GA 1003基本上快看完了:-)
+   > 比较深入的数据结构课程，感觉难度比较大，但是还是决定尝试一下
 
-3. [DS-GA 3001 Advanced Python for Data Science](https://nyu-cds.github.io/courses/advanced/)[Finished]
+3. [DS-GA 3001 Advanced Python for Data Science](https://nyu-cds.github.io/courses/advanced/):heavy_check_mark: 
 
    > 确实是属于Advanced级别，后面会讲Cython和并发与并行编程，这些平时学习基本没有基础过，打算系统学习一下。
    >
@@ -194,7 +193,7 @@ Enjoy it:-)
 #### Operating System
 
 ##### Books
-1. CSAPP
+1. CS:APP:heavy_check_mark:
 
    > 神书！上面提到过在CMU对应的课程，也是现在正在看的书。只有真正看过之后才会明白为什么那么多人推荐吧。
 
@@ -211,13 +210,13 @@ Enjoy it:-)
 
 2. [CS110 Principles of Computer Systems(Stanford)-Computer Organization & Systems](http://web.stanford.edu/class/cs110/)
 
-    >CS144的先修课.
+    >计算机系统。
 
 
 #### Computer Networks
 ##### Books
 
-1. 计算机|计算机网络(不求甚解系列:-)[Finished]
+1. 计算机|计算机网络(不求甚解系列:-):heavy_check_mark: 
 
    >[Head First Networking ](https://book.douban.com/subject/3792147/),非常简单的入门介绍，可以当作第一次接触计算机网络时的读物。(但是很明显这本09年的书有点太老了，而且会讲布线这些很“物理”的东西:-)
    >
@@ -229,8 +228,7 @@ Enjoy it:-)
 
     >计算机网络比较有名的课程. 
     >
-    >(更新)就是因为这个Lab是Cpp所以才去修了上面的CS106L...
-
+    
 2. [Computer Networks, Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
     > 油管上一门计算机网络的课，自底向上讲的，目前看到大概40+，感觉还是很好的。(不过这个list总共是97个视频，应该是没有更新完，官方好像标记为full, 可能不会再更了，有些可惜)
