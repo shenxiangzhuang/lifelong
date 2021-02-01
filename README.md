@@ -67,6 +67,10 @@ Enjoy it:-)
 13. [CSC2541 Winter 2021   Topics in Machine Learning:   Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2021/)
 
     > 深入DL训练过程的课程，试图分析DL效果好的原因，值得好好看！
+    
+14. [CSE 5526: Neural Networks, Fall 2014](http://mr-pc.org/t/cse5526/)
+
+    > 看到说Simon那本*Learning Networks and Learning Machines*不错，就去找了下相关的课程，只找到了这个，感觉可以作为书的引导。
 
 
 ### 1.2 Books
