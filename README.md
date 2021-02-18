@@ -295,6 +295,20 @@ Enjoy it:-)
 1. [Christian Borgelt's Web Pages](https://borgelt.net/fpm.html)
 2. [**SPMF**](http://www.philippe-fournier-viger.com/spmf/index.php)
 
+### 4.3 AIOps
+
+1. [AIOps Fall2020-Tsinghua NetMan Lab](https://netman.aiops.org/courses/advanced-network-management-Fall2020-course/)
+
+   > **[Dan Pei](https://netman.aiops.org/~peidan/)**老师在清华开的课程。
+
+
+
+[awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps)
+
+[aiops-handbook](https://github.com/chenryn/aiops-handbook)
+
+
+
 ## 5. Projects
 
 正在做(并没有:-)的几个玩具项目.
