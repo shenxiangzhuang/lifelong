@@ -58,7 +58,9 @@ Enjoy it:-)
     
 11. [CS-L,W-182/282A Designing, Visualizing and Understanding Deep Neural Networks(Berkeley, Spring 2020)](https://bcourses.berkeley.edu/courses/1487769/wiki)
 
-    > Berkeley的深度学习课程(正在学习中/暂停)
+    > Berkeley的深度学习课程(正在学习中)
+    >
+    > (2021-02-28)做完了Assignment1, 几乎是完全从头开始搭建FC和CNN网络，走完整个流程对整个训练的过程有了相当深刻的认识，受益匪浅！
 
 12. [CS 189/289A-Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
@@ -291,6 +293,7 @@ Enjoy it:-)
    > coursera上Google开的课，貌似需要付费
 ### 4.2 Association Analysis
 1. [Christian Borgelt's Web Pages](https://borgelt.net/fpm.html)
+2. [**SPMF**](http://www.philippe-fournier-viger.com/spmf/index.php)
 
 ## 5. Projects
 
