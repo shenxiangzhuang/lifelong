@@ -73,6 +73,16 @@ Enjoy it:-)
 14. [CSE 5526: Neural Networks, Fall 2014](http://mr-pc.org/t/cse5526/)
 
     > 看到说Simon那本*Learning Networks and Learning Machines*不错，就去找了下相关的课程，只找到了这个，感觉可以作为书的引导。
+    
+15. [Convex Optimization: Fall 2019](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+
+    > CMU凸优化课程。
+    
+16. [**Analysis of Networks**, Fall2018](http://snap.stanford.edu/class/cs224w-2018/)
+
+    > 图数据挖掘课程。这里选择Fall2018出于两个目的：课程作业可以获取；有教学录制视频。
+
+    
 
 
 ### 1.2 Books
