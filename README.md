@@ -82,7 +82,9 @@ Enjoy it:-)
 
     > 图数据挖掘课程。这里选择Fall2018出于两个目的：课程作业可以获取；有教学录制视频。
 
-    
+17. [Graph Neural Networks](https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/)
+
+    > 目前看到的GNN相关的最全的总结了！而且发现这位大佬教的课https://hhaji.github.io/Teaching/真的都很顶！个人十分喜欢这种给出大量参考资料的课程！
 
 
 ### 1.2 Books
