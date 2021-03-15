@@ -56,12 +56,19 @@ Enjoy it:-)
     
     >lecture notes看着还不错
     
-11. [CS-L,W-182/282A Designing, Visualizing and Understanding Deep Neural Networks(Berkeley, Spring 2020)](https://bcourses.berkeley.edu/courses/1487769/wiki)
+11. [CS-L,W-182/282A Designing, Visualizing and Understanding Deep Neural Networks(Berkeley, Spring 2020)](https://bcourses.berkeley.edu/courses/1487769/wiki):heavy_check_mark: 
 
     > Berkeley的深度学习课程(正在学习中)
     >
     > (2021-02-28)做完了Assignment1, 几乎是完全从头开始搭建FC和CNN网络，走完整个流程对整个训练的过程有了相当深刻的认识，受益匪浅！
-
+    >
+    > (2021-03-15)这是一个近乎完美的课程！前三个Assignment是全部完成了的，在及其友好的引导下手写了CNN, Vanilla RNN, LSTM, Transformer等实现，通过写Forward和Backward的步骤，对各种网络结构的理解又加深了一个层次。
+    >
+    > 这种from scratch的实现方式也是我最喜欢的方式——个人认为这是最为直观，有效的学习方式。这是因为from scratch的代码一方面可以让模糊的理论理解更加清晰，同时也提供了关于算法落地的insight。这些实现基本上没有加任何优化，所以运行效率都比较低，但是正因为如此才能够以一种更为直接的方式将算法本身的面目呈现出来。
+    >
+    > 课程后半主要讲的是GAN和RL, 这块之前几乎没有接触过，所以学起来比较吃力。所以最后的Assignment4(RL相关)只做了一部分，还是参考了下面的实现写的。感觉这块内容进度有点太快了，也是因为我主要以Lecture Notes为主，资料看得比较少。
+    >
+    
 12. [CS 189/289A-Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
     >Berkeley的统计机器学习课程，理论讲的比较深入，给了很多有用的资料。（后面需要重点看的）
@@ -84,7 +91,11 @@ Enjoy it:-)
 
 17. [Graph Neural Networks](https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/)
 
-    > 目前看到的GNN相关的最全的总结了！而且发现这位大佬教的课https://hhaji.github.io/Teaching/真的都很顶！个人十分喜欢这种给出大量参考资料的课程！
+    > 目前看到的GNN相关的最全的总结了！而且发现这位大佬教的课https://hhaji.github.io/Teaching/ 真的都很顶！个人十分喜欢这种给出大量参考资料的课程！
+    
+18. [CS 285 at UC Berkeley: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+    > Berkeley DRL.
 
 
 ### 1.2 Books
