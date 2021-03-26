@@ -85,7 +85,7 @@ Enjoy it:-)
 
     > CMU凸优化课程。
     
-16. [**Analysis of Networks**, Fall2018](http://snap.stanford.edu/class/cs224w-2018/)
+16. [**CS224W: Analysis of Networks(Stanford)**, Fall2018](http://snap.stanford.edu/class/cs224w-2018/)
 
     > 图数据挖掘课程。这里选择Fall2018出于两个目的：课程作业可以获取；有教学录制视频。
 
@@ -96,6 +96,10 @@ Enjoy it:-)
 18. [CS 285 at UC Berkeley: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
     > Berkeley DRL.
+    
+19. [Foundations of Machine Learning-Fall2020](https://cs.nyu.edu/~mohri/ml20/)
+
+    > [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)作者开设的对应的课程
 
 
 ### 1.2 Books
