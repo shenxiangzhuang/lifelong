@@ -100,6 +100,10 @@ Enjoy it:-)
 19. [Foundations of Machine Learning-Fall2020](https://cs.nyu.edu/~mohri/ml20/)
 
     > [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)作者开设的对应的课程
+    
+20. [Machine Learning and Data Mining-CSC 411 Winter 2019](https://www.cs.toronto.edu/~mren/teach/csc411_19s/#overview)
+
+    > toronto大学的机器学习课程，选录进入此系列是因为这个课程覆盖面较全，虽然较为精简。然后也有配套的homework。
 
 
 ### 1.2 Books
@@ -206,6 +210,10 @@ Enjoy it:-)
    >This course provides an intensive, hands-on introduction to Data 
    >Wrangling with the R programming language. You will learn the 
    >fundamental skills required to acquire, munge, transform, manipulate, and visualize data in a computing environment that fosters reproducibility.
+   
+3. [STA-663-2017](http://people.duke.edu/~ccc14/sta-663-2017/index.html)
+
+   > Duke大学的一个课程文档，可以看作一个Python的科学计算Toolbox.
 
 ### 2.4 Projects|Tools
 
@@ -328,11 +336,9 @@ Enjoy it:-)
 
    > **[Dan Pei](https://netman.aiops.org/~peidan/)**老师在清华开的课程。
 
+2. [awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps)
 
-
-[awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps)
-
-[aiops-handbook](https://github.com/chenryn/aiops-handbook)
+3. [aiops-handbook](https://github.com/chenryn/aiops-handbook)
 
 
 
