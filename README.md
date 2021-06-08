@@ -132,6 +132,16 @@ Enjoy it:-)
 
    > 这本书在我看来是DL入门**最好**的一本书，没有之一。先是从理论上把基于梯度下降的优化过程讲清楚，之后写代码从零开始构建神经网络。条理清晰，层次分明，没有回避任何问题，读完解决了很多之前一直都有的疑惑。
 
+7. [Neural Networks from Scratch in Python](https://nnfs.io/):heavy_check_mark: 
+   
+   > 如果说Michael Nielsen的NNDL是高屋建瓴，站在足够的高度为读者展示整个NN的蓝图，那么这本NNFS就是踩在坚实的大地上，为读者提供蓝图中的每一处事物并带领你亲身去体验。其实NNDL本身也已经包含了很多NNFS提供的内容，但是后者更加具体一些。
+   >
+   > **优点**: From Scratch是透彻理解一个事物的最直接有效的办法，前提是真的From Scratch; NN的Forward部分讲的比较详细，逻辑清晰，代码简洁; 对Nonlinear(Activation function)的讲解细致，其中部分应该是参考了Michael Nielsen, Neural Networks and Deep Learning中[Chap4 A visual proof that neural nets can compute any function](http://neuralnetworksanddeeplearning.com/chap4.html) 的内容. 两者可以互为参考; Chap9 Backpropagation写的极为细致清晰，应该是我目前看到的最为清晰的BP讲解与实现，层层递进，引人入胜; Chap10 Optimizers算是差强人意，对各个优化器motivation的讲解较为清晰，代码写的也比较好.比较可惜的是没有放任何公式...这些公式又不难，贴上来对着代码讲一下会好很多; Chap18 Model Object， Chap21 Saving and Loading Models and Their Parameters都写的不错，条理清晰，代码也是一步步地讲解
+   >
+   > **缺点**:Chap6,7,8中对Calculus(Derivative, Gradient等)的讲解有些繁琐，且稍显粗浅; Chap11, 12, 13分三章讲Testing Data/Validation Data/Training Data, 每章几页草草了事，大可不必...不过能提到data leakage也算是弥补回来一点
+   
+   
+
 ## 2. Programming
 ### 2.2 Books
 
