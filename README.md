@@ -320,6 +320,10 @@ Enjoy it:-)
 
 之前看的一篇[Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html)感触挺深的，后面就找了下Machine Learning System的资料.
 
+0. [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
+
+   >  比较全面的资料合集
+
 1. [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
 
    >Tianqi Chen在华盛顿大学的机器学习系统课程。
@@ -336,6 +340,18 @@ Enjoy it:-)
 4. [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems#about)
 
    > coursera上Google开的课，貌似需要付费
+
+5. [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/2021/index.html#overview)
+
+   > Stanford, Winter 2021
+
+6. [Machine Learning Systems (Fall 2019)](https://ucbrise.github.io/cs294-ai-sys-fa19/#)
+
+   > UCB RISE LAB.
+
+7. [EECS 598: Systems for AI (W'21)](https://github.com/mosharaf/eecs598/tree/w21-ai)
+
+   > University of Wisconsin
 ### 4.2 Association Analysis
 1. [Christian Borgelt's Web Pages](https://borgelt.net/fpm.html)
 2. [**SPMF**](http://www.philippe-fournier-viger.com/spmf/index.php)
