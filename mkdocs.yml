@@ -1,0 +1,114 @@
+site_name: Life Long Learn
+#site_url: https://github.com/shenxiangzhuang/awesome-data-science
+site_author: Xiangzhuang Shen
+site_description: >-
+  Life Long Learn
+
+repo_name: lifelong
+repo_url: https://github.com/shenxiangzhuang/lifelong
+
+copyright: Copyright &copy; 2019 Xiangzhuang Shen
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  language: zh
+  static_templates:
+    - 404.html
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    # - navigation.instant
+    # - navigation.expand
+    # - navigation.sections
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.integrate
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      linenums_style: pymdownx.inline
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.tabbed
+  - abbr
+  - admonition
+
+plugins:
+  - i18n:
+      default_language: zh
+      material_alternate: true
+      languages:
+        zh:
+          name: 简体中文
+          build: true
+        en:
+          name: English
+          build: true
+  - search:
+      lang: ja
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/shenxiangzhuang/lifelong
+
+nav:
+  - 前言: "index.md"
+  - 数学/统计学/机器学习:
+      - 数学: "Math-Statistics-ML/Math.md"
+      - 统计学: "Math-Statistics-ML/Statistics.md"
+      - 机器学习: "Math-Statistics-ML/ML.md"
+  - 计算机科学:
+      - 机器学习系统: "CS/ML-Sys.md"
+      - 编程概览: "CS/Programming.md"
+      - Python: "CS/Python.md"
+      - 数据结构与算法: "CS/DataStructure-Algorithm.md"
+      - 操作系统: "CS/OS.md"
+      - 数据库: "CS/DB.md"
+      - 工具箱: "CS/Tools.md"
